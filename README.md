@@ -48,7 +48,7 @@ tastatur "i" -> inventory (von shop/werft-->muss in der n‰he sein)
 tastatur "Q" -> skill fireball
 
 
-
+Respawn von Charakter,MOBA Dick,Jungle noch defekt
 Viel Spaﬂ
 
 Team MOBA DICK!!!
